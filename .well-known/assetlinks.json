@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "e.tour.com",
+    "sha256_cert_fingerprints": ["AE:9D:54:31:4F:3A:E2:FB:57:7A:56:85:C0:CF:31:AD:63:44:04:E3:42:8D:11:82:FD:03:82:7A:8D:C4:14:76"]
+  }
+}]
